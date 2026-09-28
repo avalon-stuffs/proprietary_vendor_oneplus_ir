@@ -10,9 +10,9 @@ from extract_utils.main import (
 )
 
 module = ExtractUtilsModule(
-    'ir',
+    'packages',
     'oneplus',
-    device_rel_path='vendor/oneplus/ir',
+    device_rel_path='vendor/oneplus/packages',
 )
 
 if __name__ == '__main__':

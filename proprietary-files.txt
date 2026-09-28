@@ -1,5 +1,9 @@
 ## All proprietary files from this list, unless pinned and noted otherwise,
 ## are from OnePlus 12 (CPH2573_16.0.9.400(EX01)).
 
+# IR
 my_product/del-app/ConsumerIRApp/ConsumerIRApp.apk:product/app/ConsumerIRApp/ConsumerIRApp.apk;PRESIGNED
 my_stock/etc/asl/com.oplus.consumerIRApp-safetyLabel.xml:product/etc/asl/com.oplus.consumerIRApp-safetyLabel.xml
+
+# HeyMelody
+my_stock/app/Melody/Melody.apk:product/app/Melody/Melody.apk;PRESIGNED
